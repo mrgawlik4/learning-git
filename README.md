@@ -2,4 +2,4 @@
 
 Learning how to use git.
 
-Take 2
+Take two.
